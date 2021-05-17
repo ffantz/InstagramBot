@@ -3,6 +3,8 @@ secrets.py
 notFollowing.txt
 followers.txt
 following.txt
+chromedriver.exe
 venv/
 build/
 dist/
+main.spec
